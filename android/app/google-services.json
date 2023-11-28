@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "285053537015",
+    "firebase_url": "https://fbfeed-2aa6b-default-rtdb.firebaseio.com",
+    "project_id": "fbfeed-2aa6b",
+    "storage_bucket": "fbfeed-2aa6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285053537015:android:dda172ee6b0ac38e34e1f2",
+        "android_client_info": {
+          "package_name": "com.newsfeed.fb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUuOwNWv-Kieut2o9S-v-tI9Dd5kZLS-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

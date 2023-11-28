@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDRtfDRIm2sAaifmJC7d6UFAFCeLDjBzB4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>285053537015</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.newsfeed.fb</string>
+	<key>PROJECT_ID</key>
+	<string>fbfeed-2aa6b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fbfeed-2aa6b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:285053537015:ios:fe10d4917815f3a034e1f2</string>
+	<key>DATABASE_URL</key>
+	<string>https://fbfeed-2aa6b-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
